@@ -74,4 +74,4 @@ MS Office, LibreOffice
 Français, Anglais, Espagnol
 
 ## Centres d’intérêt
-🛠🎶📚🥾🧗‍♂️🥊👨‍💻
+🔧 🎶 📚 🥾 🧗‍♂️ 🥊 👨‍💻 🎮
