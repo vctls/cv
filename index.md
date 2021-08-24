@@ -1,37 +1,76 @@
-## Welcome to GitHub Pages
+# Curriculum Vitae
 
-You can use the [editor on GitHub](https://github.com/vctls/cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Concepteur Développeur Informatique
+Trilingue français anglais espagnol, spécialisé web back-end
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Expérience
+### janv. 2018 - août 2021, Rectorat de l’Académie de Toulouse - Concepteur Développeur Informatique
+Participation à la conception et au développement du programme inter-académique pour le suivi des élèves en situation de handicap sur Symfony.
+Migration de plusieurs applications de Symfony 2 vers Symfony 3 et 4.
+Mise en place de l’environnement de développement commun sur Vagrant et Docker, des tests automatisés avec PhpUnit et Codeception, de l’intégration continue avec Jenkins et Gitlab CI et de l'analyse de qualité de code avec SonarQube.
+Création de jobs ETL sur Talend OSDI pour le traitement de données RH.
+Développement d’outils d’interfaçage avec les bases métier héritées IBM Informix et DB2.
+Étude de risques et de solutions pour la protection des données sensibles dans le cadre de la mise en conformité avec le RGPD.
+Conception et développement de bibliothèques et composants transverses.
+Participation à la montée en compétence de l'équipe sur le framework et les outils de développement.
 
-### Markdown
+### janv. 2016 - déc. 2017, INSA Toulouse - Concepteur Développeur Informatique
+Conception et développement d’applications web pour les besoins de l’établissement: 
+réservation de matériel, gestion d’inscription à des évènements, paiement des jurys d’entrée, campagnes de dons. (dont plusieurs basées sur Symfony 3)
+Interfaçage avec les applications de la suite Cocktail dédiées à l’enseignement supérieur, et avec la solution de planification ADESoft.
+Maintenance corrective et évolutive des applications existantes, refactoring d’applications héritées.
+Support aux usagers des applications.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Janvier à Avril 2015, Framasoft - Stagiaire Concepteur Développeur Informatique
+Conception d’un logiciel de gestion de dons (modélisation des données, maquettage de l’interface).
+Développement sur le framework PHP Symfony 2 (avec MySQL, Doctrine et Twig).
+Création d'une interface web graphique dynamique avec JavaScript, jQuery et jQueryUI.
 
-```markdown
-Syntax highlighted code block
+### 2012 - 2013, Altimer - Chargé de reporting
+Analyse et modélisation de données (téléphonie, ITS, emails).
+Développement des programmes et interfaces de génération des rapports.
+Implémentation des ETL pour le traitement et le déplacement des données.
+Création et automatisation des rapports et tableaux de bord.
+Étude et production des indicateurs clé de performance (KPI).
+Maintenance de l’infrastructure du service de reporting (PCs, serveur).
+Participation à l’étude et au chiffrage des projets
 
-# Header 1
-## Header 2
-### Header 3
+### 2010 - 2011, MGP - Technicien de support
+Assistance informatique à distance (~60 appels par jour en trois langues).
+Support de niveau 2 sur les logiciels Microsoft (Office et Windows).
+Développement de macros pour MS Office, IBM Information Management System et BMC Remedy.
+Participation à l’amélioration de la documentation et des process.
 
-- Bulleted
-- List
+### 2006 - 2010, UNITe - Apprenti électrotechnicien automaticien
+Étude et mise en service d’installations électriques et automatismes industriels.
+Rédaction des documentations.
+Habilitations électriques B2, BR, BC, H1V.
 
-1. Numbered
-2. List
+## Formation
+2014 - 2015, AFPA de Balma - TP Concepteur Développeur Informatique
+2013 - 2014, Autoformation, projets personnels
+2008 - 2010, CFAI Midi-Pyrénées - BTS Électrotechnique
+2006 - 2008, CFAI Midi-Pyrénées - Bac Pro ELEEC
 
-**Bold** and _Italic_ and `Code` text
+## Compétences
+### Systèmes d’exploitation
+MS Windows XP, 7, 8, 10, Server 2003 ; Mac OS X ; Linux
+### Langages de programmation
+PHP, JavaScript, HTML, CSS, Twig, SQL, Java, VB, VBA, VB.NET
+### Librairies et frameworks
+Symfony, Doctrine, jQuery, Bootstrap
+### Langages et méthodes de modélisation
+UML, Merise
+### Base de données
+PostgreSQL, Oracle, MySQL, SQL Server, MS Access
+### Outils et environnement de développement
+PHPStorm, Eclipse, git, Vagrant, Docker
+## Forges logicielles
+Gitlab, Github, Redmine
+### Bureautique
+MS Office, LibreOffice
+### Langues
+Français, Anglais, Espagnol
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vctls/cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Centres d’intérêt
+Bricolage, musique, lecture, randonnée, escalade, sports de combat,  dépannage informatique...
