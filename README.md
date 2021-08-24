@@ -2,7 +2,7 @@
 
 Concepteur Développeur Informatique  
 Trilingue 🇫🇷🇬🇧🇪🇸  
-spécialisé web back-end PHP🐘 et Symfony
+spécialisé web back-end PHP🐘 et Symfony🎼
 
 ## Expérience
 ### Janvier 2018 - Août 2021, Rectorat de l’Académie de Toulouse
