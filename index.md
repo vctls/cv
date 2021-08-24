@@ -65,8 +65,8 @@ UML, Merise
 ### Base de données
 PostgreSQL, Oracle, MySQL, SQL Server, MS Access
 ### Outils et environnement de développement
-PHPStorm, Eclipse, git, Vagrant, Docker
-## Forges logicielles
+PhpStorm, Eclipse, git, Vagrant, Docker
+### Forges logicielles
 Gitlab, Github, Redmine
 ### Bureautique
 MS Office, LibreOffice
