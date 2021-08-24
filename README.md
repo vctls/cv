@@ -2,23 +2,23 @@
 
 Concepteur Développeur Informatique  
 Trilingue 🇫🇷🇬🇧🇪🇸  
-spécialisé web back-end  
+spécialisé web back-end PHP🐘 et Symfony
 
 ## Expérience
 ### Janvier 2018 - Août 2021, Rectorat de l’Académie de Toulouse
 Participation à la conception et au développement du programme inter-académique pour le suivi des élèves en situation de handicap sur Symfony.  
 Migration de plusieurs applications de Symfony 2 vers Symfony 3 et 4.  
 Mise en place de l’environnement de développement commun sur Vagrant et Docker, des tests automatisés avec PhpUnit et Codeception, de l’intégration continue avec Jenkins et Gitlab CI et de l'analyse de qualité de code avec SonarQube.  
-Création de jobs ETL sur Talend OSDI pour le traitement de données RH.  
+Création de jobs <abbr title="Extract Transform Load">ETL</abbr> sur [Talend OSDI](https://www.talend.com/products/talend-open-studio/) pour le traitement de données RH.  
 Développement d’outils d’interfaçage avec les bases métier héritées IBM Informix et DB2.  
 Étude de risques et de solutions pour la protection des données sensibles dans le cadre de la mise en conformité avec le RGPD.  
 Conception et développement de bibliothèques et composants transverses.  
 Participation à la montée en compétence de l'équipe sur le framework et les outils de développement.  
 
 ### Janvier 2016 - Décembre 2017, INSA Toulouse
-Conception et développement d’applications web pour les besoins de l’établissement:   
-réservation de matériel, gestion d’inscription à des évènements, paiement des jurys d’entrée, campagnes de dons. (dont plusieurs basées sur Symfony 3)  
-Interfaçage avec les applications de la suite Cocktail dédiées à l’enseignement supérieur, et avec la solution de planification ADESoft.  
+Conception et développement d’applications web en PHP pur en Symfony pour les besoins de l’établissement:   
+réservation de matériel, gestion d’inscription à des évènements, paiement des jurys d’entrée, campagnes de dons. 
+Interfaçage avec les applications de la suite [Cocktail](https://www.asso-cocktail.fr/) dédiées à l’enseignement supérieur, et avec la solution de planification [ADESoft](https://www.adesoft.com/en/ade-campus-2/).  
 Maintenance corrective et évolutive des applications existantes, refactoring d’applications héritées.  
 Support aux usagers des applications.  
 
@@ -28,9 +28,9 @@ Développement sur le framework PHP Symfony 2 (avec MySQL, Doctrine et Twig).
 Création d'une interface web graphique dynamique avec JavaScript, jQuery et jQueryUI.  
 
 ### 2012 - 2013, Altimer - Chargé de reporting
-Analyse et modélisation de données (téléphonie, ITS, emails).  
+Analyse et modélisation de données (téléphonie, <abbr title="Issue Tracking System">ITS</abbr>, emails).  
 Développement des programmes et interfaces de génération des rapports.  
-Implémentation des ETL pour le traitement et le déplacement des données.  
+Implémentation des <abbr title="Extract Transform Load">ETL</abbr> pour le traitement et le déplacement des données.  
 Création et automatisation des rapports et tableaux de bord.  
 Étude et production des indicateurs clé de performance (KPI).  
 Maintenance de l’infrastructure du service de reporting (PCs, serveur).  
@@ -74,4 +74,4 @@ MS Office, LibreOffice
 Français, Anglais, Espagnol
 
 ## Centres d’intérêt
-Bricolage, musique, lecture, randonnée, escalade, sports de combat,  dépannage informatique...
+🛠🎶📚🥾🧗‍♂️🥊👨‍💻
