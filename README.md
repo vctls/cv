@@ -53,24 +53,24 @@ Habilitations électriques B2, BR, BC, H1V.
 2008 - 2010, CFAI Midi-Pyrénées - BTS Électrotechnique  
 2006 - 2008, CFAI Midi-Pyrénées - Bac Pro ELEEC  
 
-## Compétences
-### Systèmes d’exploitation
-MS Windows XP, 7, 8, 10, Server 2003 ; Mac OS X ; Linux
-### Langages de programmation
-PHP, JavaScript, HTML, CSS, Twig, SQL, Java, VB, VBA, VB.NET
-### Librairies et frameworks
-Symfony, Doctrine, jQuery, Bootstrap
-### Langages et méthodes de modélisation
-UML, Merise
-### Base de données
-PostgreSQL, Oracle, MySQL, SQL Server, MS Access
-### Outils et environnement de développement
-PhpStorm, Eclipse, git, Vagrant, Docker
-### Forges logicielles
-Gitlab, Github, Redmine
-### Bureautique
-MS Office, LibreOffice
-### Langues
+## Outils et compétences
+**Systèmes d’exploitation**  
+MS Windows XP, 7, 8, 10, Server 2003 ; Mac OS X ; Linux  
+**Langages de programmation**  
+PHP, JavaScript, HTML, CSS, Twig, SQL, Java, VB, VBA, VB.NET  
+**Librairies et frameworks**  
+Symfony, Doctrine, jQuery, Bootstrap  
+**Langages et méthodes de modélisation**  
+UML, Merise  
+**Base de données**  
+PostgreSQL, Oracle, MySQL, SQL Server, MS Access  
+**Outils et environnement de développement**  
+PhpStorm, Eclipse, git, Vagrant, Docker  
+**Forges logicielles**  
+Gitlab, Github, Redmine  
+**Bureautique**  
+MS Office, LibreOffice  
+**Langues**  
 Français, Anglais, Espagnol
 
 ## Centres d’intérêt
