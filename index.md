@@ -1,4 +1,4 @@
-# Curriculum Vitae
+# Victor Toulouse
 
 Concepteur Développeur Informatique  
 Trilingue 🇫🇷🇬🇧🇪🇸  
