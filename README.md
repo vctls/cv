@@ -1,19 +1,20 @@
 # Victor Toulouse
 
 Concepteur Développeur Informatique  
-Trilingue 🇫🇷🇬🇧🇪🇸  
 spécialisé web back-end PHP🐘 et Symfony🎼
 
 ## Expérience
 ### Janvier 2018 - Août 2021, Rectorat de l’Académie de Toulouse
-Participation à la conception et au développement du programme inter-académique pour le suivi des élèves en situation de handicap sur Symfony.  
+Participation à la conception et au développement du programme inter-académique de suivi des élèves en situation de handicap.  
 Migration de plusieurs applications de Symfony 2 vers Symfony 3 et 4.  
-Mise en place de l’environnement de développement commun sur Vagrant et Docker, des tests automatisés avec PhpUnit et Codeception, de l’intégration continue avec Jenkins et Gitlab CI et de l'analyse de qualité de code avec SonarQube.  
-Création de jobs <abbr title="Extract Transform Load">ETL</abbr> sur [Talend OSDI](https://www.talend.com/products/talend-open-studio/) pour le traitement de données RH.  
-Développement d’outils d’interfaçage avec les bases métier héritées IBM Informix et DB2.  
+Mise en place de l’environnement de développement commun sur Docker, des tests automatisés avec PhpUnit et Codeception,  
+et de la chaîne d'outils devops, dont l’intégration continue avec Jenkins et Gitlab CI et l'analyse de qualité de code avec SonarQube.  
+Création de jobs <abbr title="Extract Transform Load">ETL</abbr> paramétrables sur Talend OSDI pour le traitement de données RH.  
+Développement d’outils d’interfaçage sur mesure avec les bases métier héritées IBM Informix et DB2.  
 Étude de risques et de solutions pour la protection des données sensibles dans le cadre de la mise en conformité avec le RGPD.  
 Conception et développement de bibliothèques et composants transverses.  
 Participation à la montée en compétence de l'équipe sur le framework et les outils de développement.  
+Documentation des pratiques recommandées de développement à l'intention de l'équipe et des partenaires.
 
 ### Janvier 2016 - Décembre 2017, INSA Toulouse
 Conception et développement d’applications web en PHP pur en Symfony pour les besoins de l’établissement:   
@@ -71,7 +72,7 @@ Gitlab, Github, Redmine
 **Bureautique**  
 MS Office, LibreOffice  
 **Langues**  
-Français, Anglais, Espagnol
+Français 🇫🇷, Anglais 🇬🇧, Espagnol 🇪🇸
 
 ## Centres d’intérêt
 🔧 🎶 📚 🥾 🧗‍♂️ 🥊 👨‍💻 🎮
