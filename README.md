@@ -18,17 +18,20 @@ Documentation des pratiques recommandées de développement à l'intention de l'
 
 ### Janvier 2016 - Décembre 2017, INSA Toulouse
 Conception et développement d’applications web en PHP pur en Symfony pour les besoins de l’établissement:   
-réservation de matériel, gestion d’inscription à des évènements, paiement des jurys d’entrée, campagnes de dons. 
+réservation de matériel, gestion d’inscription à des évènements, paiement des jurys d’entrée, campagnes de dons.   
 Interfaçage avec les applications de la suite [Cocktail](https://www.asso-cocktail.fr/) dédiées à l’enseignement supérieur, et avec la solution de planification [ADESoft](https://www.adesoft.com/en/ade-campus-2/).  
 Maintenance corrective et évolutive des applications existantes, refactoring d’applications héritées.  
-Support aux usagers des applications.  
+Support aux usagers des applications. 
 
-### Janvier à Avril 2015, Framasoft - Stagiaire Concepteur Développeur Informatique
+### Janvier à Avril 2015, Framasoft
+
+Stage de fin de formation.  
 Conception d’un logiciel de gestion de dons (modélisation des données, maquettage de l’interface).  
 Développement sur le framework PHP Symfony 2 (avec MySQL, Doctrine et Twig).  
 Création d'une interface web graphique dynamique avec JavaScript, jQuery et jQueryUI.  
 
 ### 2012 - 2013, Altimer - Chargé de reporting
+Prestation pour T-Systems et clients: Eurocopter, Airbus, EADS, Pfizer…  
 Analyse et modélisation de données (téléphonie, <abbr title="Issue Tracking System">ITS</abbr>, emails).  
 Développement des programmes et interfaces de génération des rapports.  
 Implémentation des <abbr title="Extract Transform Load">ETL</abbr> pour le traitement et le déplacement des données.  
@@ -72,7 +75,14 @@ Gitlab, Github, Redmine
 **Bureautique**  
 MS Office, LibreOffice  
 **Langues**  
-Français 🇫🇷, Anglais 🇬🇧, Espagnol 🇪🇸
+Français 🇫🇷, Anglais 🇬🇧, Espagnol 🇪🇸 éto
 
 ## Centres d’intérêt
-🔧 🎶 📚 🥾 🧗‍♂️ 🥊 👨‍💻 🎮
+
+musique 🎶 son et acoustique 🔊
+randonnée 🥾 nature ⛰🏕️ sport 🧗‍♂️🥋🥊 
+DIY 🔧 optimisation de l'habitat et de l'espace de travail 🏠🏢
+science 🔬 technologie 👨‍💻 politique 🗳️
+environnement 🌍 culture et divertissement 📚🎮🎥🎭
+santé ⚕️ éducation 👨‍🏫 administration 📜
+
