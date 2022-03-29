@@ -8,7 +8,7 @@ spécialisé web back-end PHP🐘 et Symfony🎼
 Participation à la conception et au développement du programme inter-académique de suivi des élèves en situation de handicap.  
 Migration de plusieurs applications de Symfony 2 vers Symfony 3 et 4.  
 Mise en place de l’environnement de développement commun sur Docker, des tests automatisés avec PhpUnit et Codeception,  
-et de la chaîne d'outils devops, dont l’intégration continue avec Jenkins et Gitlab CI et l'analyse de qualité de code avec SonarQube.  
+et de la chaîne d'outils DevOps, dont l’intégration continue avec Jenkins et Gitlab CI et l'analyse de qualité de code avec SonarQube.  
 Création de jobs <abbr title="Extract Transform Load">ETL</abbr> paramétrables sur Talend OSDI pour le traitement de données RH.  
 Développement d’outils d’interfaçage sur mesure avec les bases métier héritées IBM Informix et DB2.  
 Étude de risques et de solutions pour la protection des données sensibles dans le cadre de la mise en conformité avec le RGPD.  
@@ -19,7 +19,7 @@ Documentation des pratiques recommandées de développement à l'intention de l'
 ### Janvier 2016 - Décembre 2017, INSA Toulouse
 Conception et développement d’applications web en PHP pur en Symfony pour les besoins de l’établissement:   
 réservation de matériel, gestion d’inscription à des évènements, paiement des jurys d’entrée, campagnes de dons.   
-Interfaçage avec les applications de la suite [Cocktail](https://www.asso-cocktail.fr/) dédiées à l’enseignement supérieur, et avec la solution de planification [ADESoft](https://www.adesoft.com/en/ade-campus-2/).  
+Interfaçage avec les applications de la suite Cocktail dédiées à l’enseignement supérieur, et avec la solution de planification ADESoft.  
 Maintenance corrective et évolutive des applications existantes, refactoring d’applications héritées.  
 Support aux usagers des applications. 
 
@@ -31,7 +31,8 @@ Développement sur le framework PHP Symfony 2 (avec MySQL, Doctrine et Twig).
 Création d'une interface web graphique dynamique avec JavaScript, jQuery et jQueryUI.  
 
 ### 2012 - 2013, Altimer - Chargé de reporting
-Prestation pour T-Systems et clients: Eurocopter, Airbus, EADS, Pfizer…  
+Prestation pour T-Systems et clients: Eurocopter, Airbus, EADS, Pfizer, Rio Tinto…
+
 Analyse et modélisation de données (téléphonie, <abbr title="Issue Tracking System">ITS</abbr>, emails).  
 Développement des programmes et interfaces de génération des rapports.  
 Implémentation des <abbr title="Extract Transform Load">ETL</abbr> pour le traitement et le déplacement des données.  
@@ -75,14 +76,14 @@ Gitlab, Github, Redmine
 **Bureautique**  
 MS Office, LibreOffice  
 **Langues**  
-Français 🇫🇷, Anglais 🇬🇧, Espagnol 🇪🇸 éto
+Français 🇫🇷, Anglais 🇬🇧, Espagnol 🇪🇸
 
 ## Centres d’intérêt
 
-musique 🎶 son et acoustique 🔊
-randonnée 🥾 nature ⛰🏕️ sport 🧗‍♂️🥋🥊 
-DIY 🔧 optimisation de l'habitat et de l'espace de travail 🏠🏢
-science 🔬 technologie 👨‍💻 politique 🗳️
-environnement 🌍 culture et divertissement 📚🎮🎥🎭
-santé ⚕️ éducation 👨‍🏫 administration 📜
+musique 🎶 son et acoustique 🔊  
+randonnée 🥾 nature ⛰🏕️ sport 🧗‍♂️🥋🥊  
+DIY 🔧 optimisation de l'habitat et de l'espace de travail 🏠🏢  
+science 🔬 technologie 👨‍💻 politique 🗳️  
+environnement 🌍 culture et divertissement 📚🎮🎥🎭  
+santé ⚕️ éducation 👨‍🏫 administration 📜  
 
