@@ -1,89 +1,87 @@
 # Victor Toulouse
 
-Concepteur Développeur Informatique  
-spécialisé web back-end PHP🐘 et Symfony🎼
+Software designer and developer  
+specialized in back-end web with PHP🐘 and Symfony🎼
 
-## Expérience
-### Janvier 2018 - Août 2021, Rectorat de l’Académie de Toulouse
-Participation à la conception et au développement du programme inter-académique de suivi des élèves en situation de handicap.  
-Migration de plusieurs applications de Symfony 2 vers Symfony 3 et 4.  
-Mise en place de l’environnement de développement commun sur Docker, des tests automatisés avec PhpUnit et Codeception,  
-et de la chaîne d'outils DevOps, dont l’intégration continue avec Jenkins et Gitlab CI et l'analyse de qualité de code avec SonarQube.  
-Création de jobs <abbr title="Extract Transform Load">ETL</abbr> paramétrables sur Talend OSDI pour le traitement de données RH.  
-Développement d’outils d’interfaçage sur mesure avec les bases métier héritées IBM Informix et DB2.  
-Étude de risques et de solutions pour la protection des données sensibles dans le cadre de la mise en conformité avec le RGPD.  
-Conception et développement de bibliothèques et composants transverses.  
-Participation à la montée en compétence de l'équipe sur le framework et les outils de développement.  
-Documentation des pratiques recommandées de développement à l'intention de l'équipe et des partenaires.
+## Technical Experience
+### January 2018 - August 2021, Toulouse Board of Education  
+Contributed to the design and development of the inter-academic management program for pupils with disabilities.  
+Migrated several applications from Symfony 2 to Symfony 3 et 4.  
+Implemented a common development environment on Docker, automated tests with PhpUnit and Codeception on multiple PHP apps,  
+and a devops toolchain with Jenkins and Gitlab CI for continuous integration and SonarQube for code quality analysis.  
+Created configurable <abbr title="Extract Transform Load">ETL</abbr> jobs with Talend OSDI for HR data processing.  
+Implemented custom interfacing tools with legacy IBM Informix et DB2 business databases.  
+Analysed risks and proposed solutions to protect sensitive data and comply with GPDR.  
+Developed cross-functional components and libraries.  
+Contributed to skill improvement of the team on development and devops practices.  
+Documented development best practices for the team and external partners.  
 
-### Janvier 2016 - Décembre 2017, INSA Toulouse
-Conception et développement d’applications web en PHP pur en Symfony pour les besoins de l’établissement:   
-réservation de matériel, gestion d’inscription à des évènements, paiement des jurys d’entrée, campagnes de dons.   
-Interfaçage avec les applications de la suite Cocktail dédiées à l’enseignement supérieur, et avec la solution de planification ADESoft.  
-Maintenance corrective et évolutive des applications existantes, refactoring d’applications héritées.  
-Support aux usagers des applications. 
+### January 2016 - December 2017, INSA Toulouse
 
-### Janvier à Avril 2015, Framasoft
+Designed and developed pure PHP and Symfony web apps for the needs of the school: equipment booking, event registration management, payment of entrance juries, donation campaigns.
+Interfaced apps with Cocktail suite applications for higher education and ADESoft resource planning solution.  
+Maintained and improved existing applications. Refactored some of the legacy codebase.  
+Provided support for end users of the various applications.  
 
-Stage de fin de formation.  
-Conception d’un logiciel de gestion de dons (modélisation des données, maquettage de l’interface).  
-Développement sur le framework PHP Symfony 2 (avec MySQL, Doctrine et Twig).  
-Création d'une interface web graphique dynamique avec JavaScript, jQuery et jQueryUI.  
+### January 2015 - April 2015, Framasoft  
+End of training internship.  
+Designed and developed a simple donation management app with PHP and Symfony.  
 
-### 2012 - 2013, Altimer - Chargé de reporting
-Prestation pour T-Systems et clients: Eurocopter, Airbus, EADS, Pfizer, Rio Tinto…
 
-Analyse et modélisation de données (téléphonie, <abbr title="Issue Tracking System">ITS</abbr>, emails).  
-Développement des programmes et interfaces de génération des rapports.  
-Implémentation des <abbr title="Extract Transform Load">ETL</abbr> pour le traitement et le déplacement des données.  
-Création et automatisation des rapports et tableaux de bord.  
-Étude et production des indicateurs clé de performance (KPI).  
-Maintenance de l’infrastructure du service de reporting (PCs, serveur).  
-Participation à l’étude et au chiffrage des projets.  
+### 2012 - 2013, Altimer - Reporting analyst
 
-### 2010 - 2011, MGP - Technicien de support
-Assistance informatique à distance (~60 appels par jour en trois langues).  
-Support de niveau 2 sur les logiciels Microsoft (Office et Windows).  
-Développement de macros pour MS Office, IBM Information Management System et BMC Remedy.  
-Participation à l’amélioration de la documentation et des process.  
+Services for T-Systems and its customers: Eurocopter, Airbus, EADS, Pfizer, Rio Tinto…  
 
-### 2006 - 2010, UNITe - Apprenti électrotechnicien automaticien
-Étude et mise en service d’installations électriques et automatismes industriels.  
-Rédaction des documentations.  
-Habilitations électriques B2, BR, BC, H1V.  
+Provided data analysis and modeling (telephony, <abbr title="Issue Tracking System">ITS</abbr>, emails).  
+Developed report generation programs and interfaces.  
+Developed and maintained <abbr title="Extract Transform Load">ETL</abbr> jobs.  
+Automated reports and dashboards.  
+Provided analysis and production of <abbr title="key performance indicators">KPI</abbr>.  
+Contributed to infrastructure maintenance (workstations and servers).  
+Contributed to study and costing of reporting projects.  
 
-## Formation
-2014 - 2015, AFPA de Balma - TP Concepteur Développeur Informatique  
-2013 - 2014, Autoformation, projets personnels  
-2008 - 2010, CFAI Midi-Pyrénées - BTS Électrotechnique  
-2006 - 2008, CFAI Midi-Pyrénées - Bac Pro ELEEC  
+### 2010 - 2011, MGP - Support technician
+Provided remote IT assistance for corporate users, with an average of 60 calls a day in three languages.  
+Provided level 2 assistance on Microsoft Windows and Office issues.  
+Developed macros for MS Office, IBM Information Management System et BMC Remedy.  
+Contributed to the improvement of the local knowledge base and process documentation.  
 
-## Outils et compétences
-**Systèmes d’exploitation**  
+### 2006 - 2010, UNITe - Apprentice electrical engineer
+Studied, installed and documented electrical systems and automation for multiple small hydroelectric plants. 
+Obtained certifications for autonomously working with and controling live, high voltage electrical installations.  
+
+## Education
+2014 - 2015, AFPA de Balma - _TP Concepteur Développeur Informatique_ (professional designation in application design and development)  
+2013 - 2014, Self-training, personal projects  
+2008 - 2010, CFAI Midi-Pyrénées - _BTS Électrotechnique_ (HND in electrical engineering )  
+2006 - 2008, CFAI Midi-Pyrénées - _Bac Pro ELEEC_ (VB in electrical engineering and communication systems)  
+
+## Tools and skills
+**Operating systems**  
 MS Windows XP, 7, 8, 10, Server 2003 ; Mac OS X ; Linux  
-**Langages de programmation**  
+**Programming languages**  
 PHP, JavaScript, HTML, CSS, Twig, SQL, Java, VB, VBA, VB.NET  
-**Librairies et frameworks**  
+**Frameworks and libraries**  
 Symfony, Doctrine, jQuery, Bootstrap  
-**Langages et méthodes de modélisation**  
+**Modeling languages and methods**  
 UML, Merise  
-**Base de données**  
+**Databases**  
 PostgreSQL, Oracle, MySQL, SQL Server, MS Access  
-**Outils et environnement de développement**  
+**Tooling**  
 PhpStorm, Eclipse, git, Vagrant, Docker  
-**Forges logicielles**  
+**Forges**  
 Gitlab, Github, Redmine  
-**Bureautique**  
+**Office suites**  
 MS Office, LibreOffice  
-**Langues**  
-Français 🇫🇷, Anglais 🇬🇧, Espagnol 🇪🇸
+**Languages**  
+French 🇫🇷, English 🇬🇧, Spanish 🇪🇸
 
-## Centres d’intérêt
 
-musique 🎶 son et acoustique 🔊  
-randonnée 🥾 nature ⛰🏕️ sport 🧗‍♂️🥋🥊  
-DIY 🔧 optimisation de l'habitat et de l'espace de travail 🏠🏢  
-science 🔬 technologie 👨‍💻 politique 🗳️  
-environnement 🌍 culture et divertissement 📚🎮🎥🎭  
-santé ⚕️ éducation 👨‍🏫 administration 📜  
+## Interests
 
+music 🎶 sound and aucoustics 🔊  
+hiking 🥾 nature ⛰🏕️ sports 🧗‍♂️🥋🥊  
+DIY 🔧 home and workspace optimization 🏠🏢  
+science 🔬 technology 👨‍💻 politics 🗳️  
+environment 🌍 culture et entertainment 📚🎮🎥🎭  
+health ⚕️ education 👨‍🏫 administration 📜  
