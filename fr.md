@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: CV
+permalink: FR
 ---
 
 # Victor Toulouse

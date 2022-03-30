@@ -1,5 +1,7 @@
 theme: jekyll-theme-minimal
 
+baseurl: /cv
+
 title: Curriculum Vitae
 logo: photo.gif
 
