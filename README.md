@@ -83,5 +83,5 @@ music 🎶 sound and aucoustics 🔊
 hiking 🥾 nature ⛰🏕️ sports 🧗‍♂️🥋🥊  
 DIY 🔧 home and workspace optimization 🏠🏢  
 science 🔬 technology 👨‍💻 politics 🗳️  
-environment 🌍 culture et entertainment 📚🎮🎥🎭  
+environment 🌍 culture and entertainment 📚🎮🎥🎭  
 health ⚕️ education 👨‍🏫 administration 📜  
